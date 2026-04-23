@@ -1,0 +1,418 @@
+[21-Oct-2024 15:43:39 Pacific/Auckland] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/generat/connectionG5.php on line 12
+[21-Oct-2024 15:50:06 Pacific/Auckland] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/generat/connectionG5.php on line 12
+[21-Oct-2024 15:54:48 Pacific/Auckland] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/generat/connectionG5.php on line 12
+[21-Oct-2024 15:54:54 Pacific/Auckland] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/generat/connectionG5.php on line 12
+[21-Oct-2024 15:59:21 Pacific/Auckland] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/generat/connectionG5.php on line 12
+[21-Oct-2024 16:09:47 Pacific/Auckland] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/generat/connectionG5.php on line 12
+[21-Oct-2024 16:15:05 Pacific/Auckland] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/generat/connectionG5.php on line 12
+[21-Oct-2024 16:15:18 Pacific/Auckland] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/generat/connectionG5.php on line 12
+[21-Oct-2024 16:15:34 Pacific/Auckland] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/generat/connectionG5.php on line 12
+[21-Oct-2024 16:15:41 Pacific/Auckland] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/generat/connectionG5.php on line 12
+[31-Oct-2024 20:05:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/logIn.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 12
+[01-Nov-2024 01:16:26 UTC] PHP Parse error:  syntax error, unexpected '$account' (T_VARIABLE) in /home/generat/public_html/updateGraphics/logIn.php on line 5
+[01-Nov-2024 01:18:23 UTC] PHP Parse error:  syntax error, unexpected '$account' (T_VARIABLE) in /home/generat/public_html/updateGraphics/logIn.php on line 5
+[01-Nov-2024 01:18:38 UTC] PHP Parse error:  syntax error, unexpected '$account' (T_VARIABLE) in /home/generat/public_html/updateGraphics/logIn.php on line 5
+[01-Nov-2024 01:28:20 UTC] PHP Parse error:  syntax error, unexpected '$account' (T_VARIABLE) in /home/generat/public_html/updateGraphics/logIn.php on line 5
+[01-Nov-2024 01:33:55 UTC] PHP Parse error:  syntax error, unexpected '$account' (T_VARIABLE) in /home/generat/public_html/updateGraphics/logIn.php on line 5
+[01-Nov-2024 01:38:05 UTC] PHP Parse error:  syntax error, unexpected '$account' (T_VARIABLE) in /home/generat/public_html/updateGraphics/logIn.php on line 5
+[01-Nov-2024 01:39:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/logIn.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 11
+[01-Nov-2024 01:46:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/logIn.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 11
+[01-Nov-2024 02:27:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/logIn.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 10
+[01-Nov-2024 02:27:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/logIn.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 10
+[06-Nov-2024 21:59:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/logIn.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 10
+[06-Nov-2024 22:09:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/generat/connectionG5i.php on line 11
+[06-Nov-2024 22:16:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/generat/connectionG5i.php on line 11
+[06-Nov-2024 22:16:45 UTC] PHP Notice:  Undefined variable: pdo in /home/generat/public_html/updateGraphics/logIn.php on line 17
+[06-Nov-2024 22:16:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/logIn.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 17
+[06-Nov-2024 22:23:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/generat/public_html/updateGraphics/logIn.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 18
+[06-Nov-2024 22:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/generat/public_html/updateGraphics/logIn.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 23
+[06-Nov-2024 22:41:26 UTC] PHP Notice:  Undefined variable: pdo in /home/generat/public_html/updateGraphics/logIn.php on line 25
+[06-Nov-2024 22:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function errorInfo() on null in /home/generat/public_html/updateGraphics/logIn.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 25
+[06-Nov-2024 22:41:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::errorInfo() in /home/generat/public_html/updateGraphics/logIn.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 25
+[07-Nov-2024 00:21:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::errorInfo() in /home/generat/public_html/updateGraphics/logIn.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 25
+[07-Nov-2024 00:21:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/generat/public_html/updateGraphics/logIn.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 23
+[07-Nov-2024 00:29:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on bool in /home/generat/public_html/updateGraphics/logIn.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 23
+[07-Nov-2024 00:42:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on bool in /home/generat/public_html/updateGraphics/logIn.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 23
+[07-Nov-2024 00:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on bool in /home/generat/public_html/updateGraphics/logIn.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 23
+[07-Nov-2024 00:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::errorInfo() in /home/generat/public_html/updateGraphics/logIn.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 24
+[07-Nov-2024 00:51:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::bindParam() in /home/generat/public_html/updateGraphics/logIn.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 26
+[07-Nov-2024 00:56:22 UTC] PHP Notice:  Undefined variable: result in /home/generat/public_html/updateGraphics/logIn.php on line 32
+[07-Nov-2024 00:56:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/generat/public_html/updateGraphics/logIn.php:32) in /home/generat/public_html/updateGraphics/logIn.php on line 40
+[07-Nov-2024 01:21:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/generat/public_html/updateGraphics/logIn.php:32) in /home/generat/public_html/updateGraphics/logIn.php on line 36
+[07-Nov-2024 01:23:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/generat/public_html/updateGraphics/logIn.php:32) in /home/generat/public_html/updateGraphics/logIn.php on line 36
+[07-Nov-2024 01:28:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/generat/public_html/updateGraphics/logIn.php:32) in /home/generat/public_html/updateGraphics/logIn.php on line 37
+[07-Nov-2024 01:28:54 UTC] PHP Parse error:  syntax error, unexpected 'to' (T_STRING) in /home/generat/public_html/updateGraphics/updateGraphics.php on line 8
+[07-Nov-2024 01:31:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/generat/public_html/updateGraphics/logIn.php:32) in /home/generat/public_html/updateGraphics/logIn.php on line 37
+[07-Nov-2024 01:32:21 UTC] PHP Parse error:  syntax error, unexpected 'to' (T_STRING) in /home/generat/public_html/updateGraphics/updateGraphics.php on line 8
+[07-Nov-2024 01:36:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/updateGraphics.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/updateGraphics.php on line 33
+[08-Nov-2024 02:42:22 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 7
+[08-Nov-2024 02:42:43 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 7
+[08-Nov-2024 02:42:44 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 7
+[08-Nov-2024 02:42:52 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 7
+[06-Dec-2024 01:12:06 UTC] PHP Notice:  Undefined index: account in /home/generat/public_html/updateGraphics/logIn.php on line 17
+[06-Dec-2024 01:12:06 UTC] PHP Notice:  Undefined index: password in /home/generat/public_html/updateGraphics/logIn.php on line 18
+[06-Dec-2024 02:16:43 UTC] PHP Notice:  Undefined variable: query in /home/generat/public_html/updateGraphics/logIn.php on line 23
+[06-Dec-2024 02:16:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_result() on null in /home/generat/public_html/updateGraphics/logIn.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 23
+[06-Dec-2024 02:17:13 UTC] PHP Notice:  Undefined variable: query in /home/generat/public_html/updateGraphics/logIn.php on line 55
+[06-Dec-2024 02:17:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/generat/public_html/updateGraphics/logIn.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 55
+[06-Dec-2024 02:37:09 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/generat/public_html/updateGraphics/logIn.php on line 16
+[06-Jan-2025 20:01:59 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 7
+[08-Jan-2025 21:13:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/generat/public_html/updateGraphics/logIn.php:15) in /home/generat/public_html/updateGraphics/logIn.php on line 39
+[08-Jan-2025 21:14:56 UTC] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 9
+[08-Jan-2025 21:15:24 UTC] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 9
+[08-Jan-2025 21:20:58 UTC] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 9
+[08-Jan-2025 21:24:40 UTC] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 9
+[09-Jan-2025 10:37:37 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 13
+[09-Jan-2025 10:57:05 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 13
+[09-Jan-2025 11:01:52 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 14
+[08-Jan-2025 22:37:51 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 28
+[08-Jan-2025 22:38:42 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 27
+[09-Jan-2025 15:31:47 Pacific/Auckland] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 51
+[09-Jan-2025 16:08:08 Pacific/Auckland] PHP Notice:  Undefined variable: account in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 31
+[13-Jan-2025 21:25:50 UTC] PHP Parse error:  syntax error, unexpected '$venues' (T_VARIABLE) in /home/generat/public_html/updateGraphics/index.php on line 12
+[15-Jan-2025 01:46:50 UTC] PHP Parse error:  syntax error, unexpected '$venue' (T_VARIABLE), expecting ')' in /home/generat/public_html/updateGraphics/fetch_level.php on line 6
+[24-Jan-2025 14:25:02 Pacific/Auckland] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 18
+[24-Jan-2025 14:25:02 Pacific/Auckland] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 24
+[24-Jan-2025 14:27:03 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 43
+[24-Jan-2025 14:27:03 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 43
+[24-Jan-2025 14:27:03 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 43
+[24-Jan-2025 14:27:03 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 43
+[24-Jan-2025 14:27:03 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 43
+[24-Jan-2025 14:27:03 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 43
+[24-Jan-2025 14:27:03 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 43
+[24-Jan-2025 14:27:03 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 43
+[24-Jan-2025 14:27:03 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 43
+[24-Jan-2025 14:27:03 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 43
+[24-Jan-2025 14:27:03 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 43
+[24-Jan-2025 14:27:03 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 43
+[24-Jan-2025 02:09:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 52
+[24-Jan-2025 15:10:16 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:10:16 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:10:16 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:10:16 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:10:16 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:10:16 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:10:16 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:10:16 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:10:16 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:10:16 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:10:16 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:10:16 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:11:49 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:11:49 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:11:49 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:11:49 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:11:49 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:11:49 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:11:49 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:11:49 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:11:49 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:11:49 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:11:49 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[24-Jan-2025 15:11:49 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:40 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:40 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:40 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:40 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:40 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:40 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:40 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:40 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:40 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:40 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:40 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:40 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:44 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:44 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:44 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:44 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:44 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:44 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:44 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:44 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:44 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:44 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:44 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:28:44 Pacific/Auckland] PHP Deprecated:  strpos(): Non-string needles will be interpreted as strings in the future. Use an explicit chr() call to preserve the current behavior in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:35:33 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:35:33 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:35:33 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:35:33 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:35:33 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:35:33 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:35:33 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:35:33 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:35:33 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:35:33 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:35:33 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:35:33 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 45
+[27-Jan-2025 09:52:25 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 46
+[27-Jan-2025 09:52:25 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 46
+[27-Jan-2025 09:52:25 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 46
+[27-Jan-2025 09:52:25 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 46
+[27-Jan-2025 09:52:25 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 46
+[27-Jan-2025 09:52:25 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 46
+[27-Jan-2025 09:52:25 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 46
+[27-Jan-2025 09:52:25 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 46
+[27-Jan-2025 09:52:25 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 46
+[27-Jan-2025 09:52:25 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 46
+[27-Jan-2025 09:52:25 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 46
+[27-Jan-2025 09:52:25 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 46
+[27-Jan-2025 10:03:55 Pacific/Auckland] PHP Notice:  Undefined index: account in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 24
+[27-Jan-2025 10:07:56 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 51
+[27-Jan-2025 10:07:56 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 51
+[27-Jan-2025 10:07:56 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 51
+[27-Jan-2025 10:07:56 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 51
+[27-Jan-2025 10:07:56 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 51
+[27-Jan-2025 10:07:56 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 51
+[27-Jan-2025 10:07:56 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 51
+[27-Jan-2025 10:07:56 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 51
+[27-Jan-2025 10:07:56 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 51
+[27-Jan-2025 10:07:56 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 51
+[27-Jan-2025 10:07:56 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 51
+[27-Jan-2025 10:07:56 Pacific/Auckland] PHP Warning:  strpos(): Empty needle in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 51
+[27-Jan-2025 14:14:50 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 217
+[27-Jan-2025 14:14:50 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 218
+[27-Jan-2025 14:14:56 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 217
+[27-Jan-2025 14:14:56 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 218
+[27-Jan-2025 16:21:36 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 229
+[27-Jan-2025 16:21:36 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 230
+[27-Jan-2025 18:02:46 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 229
+[27-Jan-2025 18:02:46 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 230
+[29-Jan-2025 15:20:57 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 229
+[29-Jan-2025 15:20:57 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 230
+[29-Jan-2025 15:34:51 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 235
+[29-Jan-2025 15:34:51 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[29-Jan-2025 16:16:56 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 239
+[29-Jan-2025 16:16:56 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 240
+[30-Jan-2025 16:27:39 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/updateLevel.php on line 251
+[30-Jan-2025 16:27:39 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/updateLevel.php on line 252
+[03-Feb-2025 02:00:51 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/generat/public_html/updateGraphics/submitGraphic.php on line 9
+[03-Feb-2025 02:02:57 UTC] PHP Warning:  include(../../../connectionG5.php): failed to open stream: No such file or directory in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 02:02:57 UTC] PHP Warning:  include(): Failed opening '../../../connectionG5.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 02:05:15 UTC] PHP Warning:  include(../../../connectionG5.php): failed to open stream: No such file or directory in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 02:05:15 UTC] PHP Warning:  include(): Failed opening '../../../connectionG5.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 02:16:30 UTC] PHP Warning:  include(../../../connectionG5.php): failed to open stream: No such file or directory in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 02:16:30 UTC] PHP Warning:  include(): Failed opening '../../../connectionG5.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 02:19:25 UTC] PHP Warning:  include(../../../connectionG5.php): failed to open stream: No such file or directory in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 02:19:25 UTC] PHP Warning:  include(): Failed opening '../../../connectionG5.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 02:29:44 UTC] PHP Warning:  include(../../../connectionG5.php): failed to open stream: No such file or directory in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 02:29:44 UTC] PHP Warning:  include(): Failed opening '../../../connectionG5.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 02:29:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/submitGraphic.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/submitGraphic.php on line 21
+[03-Feb-2025 02:35:01 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/generat/public_html/updateGraphics/submitGraphic.php on line 32
+[03-Feb-2025 02:51:37 UTC] PHP Warning:  include(../../../connectionG5.php): failed to open stream: No such file or directory in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 02:51:37 UTC] PHP Warning:  include(): Failed opening '../../../connectionG5.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 02:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/submitGraphic.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/submitGraphic.php on line 21
+[03-Feb-2025 03:17:24 UTC] PHP Warning:  include(../../../connectionG5.php): failed to open stream: No such file or directory in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 03:17:24 UTC] PHP Warning:  include(): Failed opening '../../../connectionG5.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 03:17:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/submitGraphic.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/submitGraphic.php on line 21
+[03-Feb-2025 03:19:12 UTC] PHP Warning:  include(../../../connectionG5i.php): failed to open stream: No such file or directory in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 03:19:12 UTC] PHP Warning:  include(): Failed opening '../../../connectionG5i.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/generat/public_html/updateGraphics/submitGraphic.php on line 3
+[03-Feb-2025 03:19:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/submitGraphic.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/submitGraphic.php on line 21
+[03-Feb-2025 03:20:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/submitGraphic.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/submitGraphic.php on line 21
+[03-Feb-2025 03:21:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/submitGraphic.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/submitGraphic.php on line 21
+[03-Feb-2025 03:22:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/generat/public_html/updateGraphics/submitGraphic.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/submitGraphic.php on line 21
+[03-Feb-2025 03:26:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/generat/public_html/updateGraphics/submitGraphic.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/submitGraphic.php on line 22
+[03-Feb-2025 03:27:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/generat/public_html/updateGraphics/submitGraphic.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/submitGraphic.php on line 22
+[03-Feb-2025 20:09:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/generat/public_html/updateGraphics/submitGraphic.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/submitGraphic.php on line 22
+[03-Feb-2025 20:27:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/generat/public_html/updateGraphics/submitGraphic.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/submitGraphic.php on line 22
+[04-Feb-2025 00:23:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/generat/public_html/updateGraphics/submitLevel.php on line 4
+[04-Feb-2025 00:39:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/generat/public_html/updateGraphics/submitLevel.php on line 4
+[04-Feb-2025 00:40:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/generat/public_html/updateGraphics/submitLevel.php on line 4
+[04-Feb-2025 00:42:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/generat/public_html/updateGraphics/submitLevel.php on line 4
+[04-Feb-2025 13:42:43 Pacific/Auckland] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/generat/public_html/updateGraphics/submitLevel.php:1) in /home/generat/public_html/updateGraphics/submitLevel.php on line 24
+[04-Feb-2025 00:46:23 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/generat/public_html/updateGraphics/submitLevel.php on line 23
+[04-Feb-2025 00:53:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/generat/public_html/updateGraphics/submitLevel.php on line 4
+[04-Feb-2025 00:54:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/generat/public_html/updateGraphics/submitLevel.php on line 4
+[04-Feb-2025 00:56:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/generat/public_html/updateGraphics/submitLevel.php on line 4
+[04-Feb-2025 00:58:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/generat/public_html/updateGraphics/submitLevel.php on line 4
+[04-Feb-2025 01:07:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/generat/public_html/updateGraphics/submitLevel.php on line 4
+[04-Feb-2025 01:08:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/generat/public_html/updateGraphics/submitLevel.php on line 4
+[04-Feb-2025 01:19:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/generat/public_html/updateGraphics/submitLevel.php on line 4
+[04-Feb-2025 01:26:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/generat/public_html/updateGraphics/submitLevel.php on line 4
+[04-Feb-2025 01:28:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/generat/public_html/updateGraphics/submitLevel.php on line 3
+[17-Feb-2025 02:56:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/generat/public_html/updateGraphics/fetch_venues.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/fetch_venues.php on line 14
+[17-Feb-2025 19:45:21 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 239
+[17-Feb-2025 19:45:21 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 240
+[17-Feb-2025 20:02:50 UTC] PHP Notice:  Undefined variable: query in /home/generat/public_html/updateGraphics/logIn.php on line 49
+[17-Feb-2025 20:02:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/generat/public_html/updateGraphics/logIn.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 49
+[17-Feb-2025 20:19:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function val_dump() in /home/generat/public_html/updateGraphics/logIn.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/generat/public_html/updateGraphics/logIn.php on line 11
+[17-Feb-2025 20:20:17 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/generat/public_html/updateGraphics/logIn.php on line 28
+[17-Feb-2025 20:21:52 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/generat/public_html/updateGraphics/logIn.php on line 28
+[17-Feb-2025 20:27:01 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/generat/public_html/updateGraphics/logIn.php on line 29
+[18-Feb-2025 15:13:50 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 239
+[18-Feb-2025 15:13:50 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 240
+[18-Feb-2025 15:14:24 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 239
+[18-Feb-2025 15:14:24 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 240
+[18-Feb-2025 15:14:31 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 239
+[18-Feb-2025 15:14:31 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 240
+[23-Apr-2025 15:39:50 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 239
+[23-Apr-2025 15:39:50 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 240
+[24-Apr-2025 12:06:25 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 239
+[24-Apr-2025 12:06:25 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 240
+[24-Apr-2025 12:06:27 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 239
+[24-Apr-2025 12:06:27 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 240
+[28-Apr-2025 11:16:39 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 243
+[28-Apr-2025 11:16:39 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 244
+[28-Apr-2025 11:28:20 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 243
+[28-Apr-2025 11:28:20 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 244
+[28-Apr-2025 14:18:35 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[28-Apr-2025 14:18:35 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[28-Apr-2025 15:24:18 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[28-Apr-2025 15:24:18 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[28-Apr-2025 16:25:27 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[28-Apr-2025 16:25:27 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[29-Apr-2025 09:03:52 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[29-Apr-2025 09:03:52 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[29-Apr-2025 10:31:00 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[29-Apr-2025 10:31:00 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[02-May-2025 10:21:06 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[02-May-2025 10:21:06 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[02-May-2025 10:21:33 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[02-May-2025 10:21:33 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[02-May-2025 10:21:46 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[02-May-2025 10:21:46 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[02-May-2025 12:53:32 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[02-May-2025 12:53:32 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[02-May-2025 12:53:44 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[02-May-2025 12:53:44 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[02-May-2025 13:52:13 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[02-May-2025 13:52:13 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[02-May-2025 13:52:18 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[02-May-2025 13:52:18 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[02-May-2025 13:52:53 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[02-May-2025 13:52:53 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[08-May-2025 15:20:58 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[08-May-2025 15:20:58 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[08-May-2025 15:21:20 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[08-May-2025 15:21:20 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[08-May-2025 15:21:35 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[08-May-2025 15:21:35 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[08-May-2025 16:14:25 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[08-May-2025 16:14:25 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[22-May-2025 10:39:28 Pacific/Auckland] PHP Notice:  Undefined variable: webGraphicPath in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 236
+[22-May-2025 10:39:28 Pacific/Auckland] PHP Notice:  Undefined variable: matchingGraphicPathSub in /home/generat/public_html/updateGraphics/testerUpdaterWithMenu.php on line 237
+[23-May-2025 01:59:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/generat/public_html/updateGraphics/session_timeout.php on line 2
+[23-May-2025 01:59:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/generat/public_html/updateGraphics/session_timeout.php:2) in /home/generat/public_html/updateGraphics/session_timeout.php on line 21
+[23-May-2025 14:09:24 Pacific/Auckland] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/generat/public_html/updateGraphics/session_timeout.php:5) in /home/generat/public_html/updateGraphics/session_timeout.php on line 15
+[23-May-2025 02:10:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/generat/public_html/updateGraphics/session_timeout.php:5) in /home/generat/public_html/updateGraphics/logIn.php on line 39
+[23-May-2025 02:12:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/generat/public_html/updateGraphics/session_timeout.php:5) in /home/generat/public_html/updateGraphics/session_timeout.php on line 15
+[23-May-2025 02:12:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/generat/public_html/updateGraphics/session_timeout.php:5) in /home/generat/public_html/updateGraphics/logIn.php on line 39
+[23-May-2025 02:13:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/generat/public_html/updateGraphics/session_timeout.php:5) in /home/generat/public_html/updateGraphics/logIn.php on line 39
